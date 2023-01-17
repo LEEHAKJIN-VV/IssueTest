@@ -1,6 +1,6 @@
 ### 🔖  Issue Number
 
-Close # 
+Close #
 
 ### 📙 작업 내역
 
